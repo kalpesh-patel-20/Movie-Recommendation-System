@@ -13,3 +13,7 @@ The movie recommender system functions by following these steps:
 3. **Similarity Calculation**: Using cosine similarity, the system compares the features of the input movies with those of other movies in the database.
 
 4. **Recommendation Generation**: Based on the similarity scores, the system selects movies that are most similar to the ones provided by the user. These movies are then recommended to the user .
+
+## Note: 
+similarity.pkl file is not uploaded in Model folder because its size is to large so run python notebook first to get the pickle file.
+
