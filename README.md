@@ -14,6 +14,12 @@ The movie recommender system functions by following these steps:
 
 4. **Recommendation Generation**: Based on the similarity scores, the system selects movies that are most similar to the ones provided by the user. These movies are then recommended to the user .
 
+## Technologies Used
+
+- **Python:** Backend development and machine learning implementation.
+- **Streamlit**: Web framework for building the user interface.
+- **Machine Learning:** Algorithms for movie recommendation.
+
 ## Note: 
 similarity.pkl file is not uploaded in Model folder because its size is to large so run python notebook first to get the pickle file.
 
